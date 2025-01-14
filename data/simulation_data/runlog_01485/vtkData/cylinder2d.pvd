@@ -1,6 +1,0 @@
-<?xml version="1.0"?>
-<VTKFile type="Collection" version="0.1" byte_order="LittleEndian">
-<Collection>
-<DataSet timestep="26446" group="" part="" file="data/cylinder2d_iT0026446.vtm"/>
-</Collection>
-</VTKFile>
