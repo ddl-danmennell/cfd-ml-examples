@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/code/train/mlruns/939613569264349387/3f489ac7a4de43d3a079926050082290/artifacts
+end_time: 1736867828947
+entry_point_name: ''
+experiment_id: '939613569264349387'
+lifecycle_stage: active
+run_id: 3f489ac7a4de43d3a079926050082290
+run_name: cnn_flow_pred_20250114_151708
+run_uuid: 3f489ac7a4de43d3a079926050082290
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736867828742
+status: 4
+tags: []
+user_id: ubuntu

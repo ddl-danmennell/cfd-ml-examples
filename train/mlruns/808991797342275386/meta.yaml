@@ -1,0 +1,6 @@
+artifact_location: file:///mnt/code/train/mlruns/808991797342275386
+creation_time: 1736865628826
+experiment_id: '808991797342275386'
+last_update_time: 1736865628826
+lifecycle_stage: active
+name: UNet_Flow_Prediction
